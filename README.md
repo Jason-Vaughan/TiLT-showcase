@@ -76,6 +76,6 @@ TiLT is a live commercial product with active users. The source code is propriet
 
 ## About
 
-Built by **[Jason Vaughan](https://github.com/Jason-Vaughan)** — 25-year career spanning live events, SaaS (co-founder, $2M exit), IATSE stagehand, video engineering, and AI-assisted development.
+Built by **[Jason Vaughan](https://github.com/Jason-Vaughan)** — 25-year career spanning live events, SaaS, IATSE stagehand, video engineering, and AI-assisted development.
 
 *Accurate. Reliable. Union Strong.*
