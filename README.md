@@ -21,7 +21,7 @@ The system started as a personal tool to track my own hours at IATSE Local 16 an
 
 | Metric | Value |
 |---|---|
-| Lines of Code | **82,600+** |
+| Lines of Code | **130,000+** |
 | API Endpoints | **146** |
 | Database Models | **34** |
 | Test Cases | **334** (100% passing) |
